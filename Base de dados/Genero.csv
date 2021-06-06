@@ -1,0 +1,195 @@
+Ano Declarado = 2019
+Coluna;;Admitidos/Desligados
+Município;Sexo;Admitidos;Desligados;Total
+Sp-Aparecida;Total;3981;3836;7817
+;Masculino;1895;1848;3743
+;Feminino;2086;1988;4074
+Sp-Bananal;Total;378;383;761
+;Masculino;311;308;619
+;Feminino;67;75;142
+Sp-Cachoeira Paulista;Total;1154;1332;2486
+;Masculino;617;681;1298
+;Feminino;537;651;1188
+Sp-Caraguatatuba;Total;9949;8895;18844
+;Masculino;4992;4517;9509
+;Feminino;4957;4378;9335
+Sp-Cruzeiro;Total;3587;3517;7104
+;Masculino;2012;2122;4134
+;Feminino;1575;1395;2970
+Sp-Guaratingueta;Total;10293;9844;20137
+;Masculino;5904;5841;11745
+;Feminino;4389;4003;8392
+Sp-Jacarei;Total;15157;15411;30568
+;Masculino;9234;9550;18784
+;Feminino;5923;5861;11784
+Sp-Lorena;Total;4967;4849;9816
+;Masculino;2730;2644;5374
+;Feminino;2237;2205;4442
+Sp-Natividade da Serra;Total;79;90;169
+;Masculino;66;75;141
+;Feminino;13;15;28
+Sp-Pindamonhangaba;Total;10390;9413;19803
+;Masculino;6735;5735;12470
+;Feminino;3655;3678;7333
+Sp-Santa Branca;Total;1235;1063;2298
+;Masculino;721;653;1374
+;Feminino;514;410;924
+Sp-Santo Antonio do Pinhal;Total;302;301;603
+;Masculino;160;158;318
+;Feminino;142;143;285
+Sp-Sao Jose dos Campos;Total;65829;66302;132131
+;Masculino;36912;37371;74283
+;Feminino;28917;28931;57848
+Sp-Sao Luis do Paraitinga;Total;495;450;945
+;Masculino;294;265;559
+;Feminino;201;185;386
+Sp-Taubate;Total;29280;28710;57990
+;Masculino;17126;16940;34066
+;Feminino;12154;11770;23924
+Total;Total;157076;154396;311472
+;Masculino;89709;88708;178417
+;Feminino;67367;65688;133055
+Ano Declarado = 2018
+Coluna;;Admitidos/Desligados
+Município;Sexo;Admitidos;Desligados;Total
+Sp-Aparecida;Total;3536;3616;7152
+;Masculino;1766;1712;3478
+;Feminino;1770;1904;3674
+Sp-Bananal;Total;380;389;769
+;Masculino;314;311;625
+;Feminino;66;78;144
+Sp-Cachoeira Paulista;Total;1266;1301;2567
+;Masculino;726;756;1482
+;Feminino;540;545;1085
+Sp-Caraguatatuba;Total;8384;8470;16854
+;Masculino;4438;4747;9185
+;Feminino;3946;3723;7669
+Sp-Cruzeiro;Total;4037;3344;7381
+;Masculino;2634;2109;4743
+;Feminino;1403;1235;2638
+Sp-Guaratingueta;Total;8954;8558;17512
+;Masculino;5375;5124;10499
+;Feminino;3579;3434;7013
+Sp-Jacarei;Total;16174;15219;31393
+;Masculino;9907;9354;19261
+;Feminino;6267;5865;12132
+Sp-Lorena;Total;5133;4655;9788
+;Masculino;2897;2720;5617
+;Feminino;2236;1935;4171
+Sp-Natividade da Serra;Total;95;102;197
+;Masculino;77;86;163
+;Feminino;18;16;34
+Sp-Pindamonhangaba;Total;9588;9106;18694
+;Masculino;6168;5710;11878
+;Feminino;3420;3396;6816
+Sp-Santa Branca;Total;441;490;931
+;Masculino;284;312;596
+;Feminino;157;178;335
+Sp-Santo Antonio do Pinhal;Total;278;253;531
+;Masculino;139;129;268
+;Feminino;139;124;263
+Sp-Sao Jose dos Campos;Total;64501;64196;128697
+;Masculino;35827;36382;72209
+;Feminino;28674;27814;56488
+Sp-Sao Luis do Paraitinga;Total;496;699;1195
+;Masculino;292;398;690
+;Feminino;204;301;505
+Sp-Taubate;Total;26550;26579;53129
+;Masculino;14546;15409;29955
+;Feminino;12004;11170;23174
+Total;Total;149813;146977;296790
+;Masculino;85390;85259;170649
+;Feminino;64423;61718;126141
+Ano Declarado = Total
+Coluna;;Admitidos/Desligados
+Município;Sexo;Admitidos;Desligados;Total
+Sp-Aparecida;Total;7517;7452;14969
+;Masculino;3661;3560;7221
+;Feminino;3856;3892;7748
+Sp-Bananal;Total;758;772;1530
+;Masculino;625;619;1244
+;Feminino;133;153;286
+Sp-Cachoeira Paulista;Total;2420;2633;5053
+;Masculino;1343;1437;2780
+;Feminino;1077;1196;2273
+Sp-Caraguatatuba;Total;18333;17365;35698
+;Masculino;9430;9264;18694
+;Feminino;8903;8101;17004
+Sp-Cruzeiro;Total;7624;6861;14485
+;Masculino;4646;4231;8877
+;Feminino;2978;2630;5608
+Sp-Guaratingueta;Total;19247;18402;37649
+;Masculino;11279;10965;22244
+;Feminino;7968;7437;15405
+Sp-Jacarei;Total;31331;30630;61961
+;Masculino;19141;18904;38045
+;Feminino;12190;11726;23916
+Sp-Lorena;Total;10100;9504;19604
+;Masculino;5627;5364;10991
+;Feminino;4473;4140;8613
+Sp-Natividade da Serra;Total;174;192;366
+;Masculino;143;161;304
+;Feminino;31;31;62
+Sp-Pindamonhangaba;Total;19978;18519;38497
+;Masculino;12903;11445;24348
+;Feminino;7075;7074;14149
+Sp-Santa Branca;Total;1676;1553;3229
+;Masculino;1005;965;1970
+;Feminino;671;588;1259
+Sp-Santo Antonio do Pinhal;Total;580;554;1134
+;Masculino;299;287;586
+;Feminino;281;267;548
+Sp-Sao Jose dos Campos;Total;130330;130498;260828
+;Masculino;72739;73753;146492
+;Feminino;57591;56745;114336
+Sp-Sao Luis do Paraitinga;Total;991;1149;2140
+;Masculino;586;663;1249
+;Feminino;405;486;891
+Sp-Taubate;Total;55830;55289;111119
+;Masculino;31672;32349;64021
+;Feminino;24158;22940;47098
+Total;Total;306889;301373;608262
+;Masculino;175099;173967;349066
+;Feminino;131790;127406;259196
+
+Seleções vigentes
+Variável;Critério;Valor
+Competência Declarada;igual a;Dez/2019
+;;Nov/2019
+;;Out/2019
+;;Set/2019
+;;Ago/2019
+;;Jul/2019
+;;Jun/2019
+;;Mai/2019
+;;Abr/2019
+;;Mar/2019
+;;Fev/2019
+;;Jan/2019
+;;Dez/2018
+;;Nov/2018
+;;Out/2018
+;;Set/2018
+;;Ago/2018
+;;Jul/2018
+;;Jun/2018
+;;Mai/2018
+;;Abr/2018
+;;Mar/2018
+;;Fev/2018
+;;Jan/2018
+Município;igual a;Sp-Sao Jose dos Campos
+;;Sp-Taubate
+;;Sp-Jacarei
+;;Sp-Caraguatatuba
+;;Sp-Pindamonhangaba
+;;Sp-Lorena
+;;Sp-Bananal
+;;Sp-Cruzeiro
+;;Sp-Guaratingueta
+;;Sp-Aparecida
+;;Sp-Cachoeira Paulista
+;;Sp-Santa Branca
+;;Sp-Sao Luis do Paraitinga
+;;Sp-Santo Antonio do Pinhal
+;;Sp-Natividade da Serra
