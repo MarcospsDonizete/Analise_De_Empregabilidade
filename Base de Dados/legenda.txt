@@ -1,0 +1,40 @@
+codmunicípio;município;codseção;seção;codgraudeinstrução;graudeinstrução;codsexo;sexo;codtipoempregador;tipoempregador;codtipomovimentação;tipomovimentação;codraçacor;raçacor
+350850;Sp-Cacapava;A;Agricultura, Pecuária, Produção Florestal, Pesca e AqÜIcultura;1;Analfabeto;1;Homem;0;CNPJ RAIZ;10;Admissão;1;Branca
+352020;Sp-Igarata;B;Indústrias Extrativas;2;Até 5ª Incompleto;3;Mulher;2;CPF;20;Admissão;2;Preta
+352440;Sp-Jacarei;C;Indústrias de Transformação;3;5ª Completo Fundamental;9;Não Identificado;9;Não Identificado;25;Admissão;3;Parda
+352490;Sp-Jambeiro;D;Eletricidade e Gás;4;6ª a 9ª Fundamental;;;;;31;Desligamento;4;Amarela
+353170;Sp-Monteiro Lobato;E;Água, Esgoto, Atividades de Gestão de Resíduos e Descontaminação;5;Fundamental Completo;;;;;32;Desligamento;5;Indígena
+353560;Sp-Paraibuna;F;Construção;6;Médio Incompleto;;;;;33;Culpa Recíproca;6;Não informada
+354600;Sp-Santa Branca;G;Comércio, Reparação de Veículos Automotores e Motocicletas;7;Médio Completo;;;;;35;Admissão;9;Não Identificado
+354990;Sp-Sao Jose dos Campos;H;Transporte, Armazenagem e Correio;8;Superior Incompleto;;;;;40;Desligamento
+350970;Sp-Campos do Jordao;I;Alojamento e Alimentação;9;Superior Completo;;;;;43;Desligamento
+352630;Sp-Lagoinha;J;Informação e Comunicação;10;Mestrado;;;;;45;Desligamento
+353230;Sp-Natividade da Serra;K;Atividades Financeiras, de Seguros e Serviços Relacionados;11;Doutorado;;;;;50;Desligamento
+353800;Sp-Pindamonhangaba;L;Atividades Imobiliárias;80;Pós-Graduação completa;;;;;60;Desligamento
+354230;Sp-Redencao da Serra;M;Atividades Profissionais, Científicas e Técnicas;99;Não Identificado;;;;;70;Admissão
+354820;Sp-Santo Antonio do Pinhal;N;Atividades Administrativas e Serviços Complementares;;;;;;;80;Desligamento
+354860;Sp-Sao Bento do Sapucai;O;Administração Pública, Defesa e Seguridade Social;;;;;;;90;Desligamento
+355000;Sp-Sao Luis do Paraitinga;P;Educação;;;;;;;98;Desligamento
+355410;Sp-Taubate;Q;Saúde Humana e Serviços Sociais;;;;;;;99;Não Identificado
+355480;Sp-Tremembe;R;Artes, Cultura, Esporte e Recreação
+350250;Sp-Aparecida;S;Outras Atividades de Serviços
+350860;Sp-Cachoeira Paulista;T;Serviços Domésticos
+350995;Sp-Canas;U;Organismos Internacionais e Outras Instituições Extraterritoriais
+351360;Sp-Cunha;Z;Não identificado
+351840;Sp-Guaratingueta
+352720;Sp-Lorena
+353850;Sp-Piquete
+354075;Sp-Potim
+354430;Sp-Roseira
+350315;Sp-Arapei
+350350;Sp-Areias
+350490;Sp-Bananal
+351340;Sp-Cruzeiro
+352660;Sp-Lavrinhas
+354190;Sp-Queluz
+354960;Sp-Sao Jose do Barreiro
+355200;Sp-Silveiras
+351050;Sp-Caraguatatuba
+352040;Sp-Ilhabela
+355070;Sp-Sao Sebastiao
+355540;Sp-Ubatuba
