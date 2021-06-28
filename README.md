@@ -10,4 +10,4 @@ José Henrique Cz. dos Santos RA: 1460481911042
 
 Marcos Paulo Simões Donizete RA: 1460481911054
 
-Video sobre o projeto: https://youtu.be/kJASakgsF
+Video sobre o projeto: https://youtu.be/kJASakgsF_g
